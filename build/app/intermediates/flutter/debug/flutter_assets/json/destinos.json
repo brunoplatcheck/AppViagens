@@ -1,0 +1,44 @@
+[
+  {
+    "nome": "Disney",
+    "localizacao": "Orlando, EUA",
+    "descricao": "Um dos parques temáticos mais famosos do mundo, repleto de magia e diversão para todas as idades.",
+    "imagem": "images/disney.jpg"
+  },
+  {
+    "nome": "Egito",
+    "localizacao": "Cairo, Egito",
+    "descricao": "Terra das pirâmides e dos faraós, com uma rica história e paisagens desérticas impressionantes.",
+    "imagem": "images/egito.jpg"
+  },
+  {
+    "nome": "Grécia",
+    "localizacao": "Atenas, Grécia",
+    "descricao": "Berço da civilização ocidental, conhecida por suas ilhas paradisíacas e arquitetura clássica.",
+    "imagem": "images/grecia.jpg"
+  },
+  {
+    "nome": "Japão",
+    "localizacao": "Tóquio, Japão",
+    "descricao": "Uma fusão perfeita entre tradição e tecnologia, com templos históricos e inovação futurista.",
+    "imagem": "images/japao.jpg"
+  },
+  {
+    "nome": "Nova York",
+    "localizacao": "Nova York, EUA",
+    "descricao": "A cidade que nunca dorme, repleta de arranha-céus icônicos e uma vida urbana vibrante.",
+    "imagem": "images/newyork.jpg"
+  },
+  {
+    "nome": "Paris",
+    "localizacao": "Paris, França",
+    "descricao": "A cidade do amor e da arte, lar da Torre Eiffel e de uma culinária mundialmente famosa.",
+    "imagem": "images/paris.jpg"
+  },
+  {
+    "nome": "Rio de Janeiro",
+    "localizacao": "Rio de Janeiro, Brasil",
+    "descricao": "Cidade maravilhosa, famosa pelo Cristo Redentor, praias deslumbrantes e carnaval vibrante.",
+    "imagem": "images/riodejaneiro.jpg"
+  }
+]

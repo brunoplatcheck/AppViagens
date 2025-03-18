@@ -1,0 +1,14 @@
+[
+  {
+    "nome": "João Silva",
+    "email": "joao@example.com",
+    "senha": "123456",
+    "foto": "/data/user/0/com.example.app/app_flutter/image1.jpg"
+  },
+  {
+    "nome": "Maria Souza",
+    "email": "maria@example.com",
+    "senha": "654321",
+    "foto": "/data/user/0/com.example.app/app_flutter/image2.jpg"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "ofertas": [
+    {
+      "id": 1,
+      "titulo": "Pacote Praia dos Sonhos",
+      "descricao": "5 dias e 4 noites com café da manhã incluso",
+      "preco": 1299.90,
+      "imagem": "praia.jpg"
+    },
+    {
+      "id": 2,
+      "titulo": "Aventura na Montanha",
+      "descricao": "Trilha guiada e hospedagem por 3 noites",
+      "preco": 899.99,
+      "imagem": "montanha.png"
+    }
+  ]
+}

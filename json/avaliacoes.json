@@ -1,0 +1,18 @@
+{
+  "avaliacoes": [
+    {
+      "id": 1,
+      "nome": "Carlos Silva",
+      "comentario": "Viagem incrível! Atendimento excelente.",
+      "nota": 5,
+      "data": "2024-03-10"
+    },
+    {
+      "id": 2,
+      "nome": "Fernanda Oliveira",
+      "comentario": "A pousada não era tão confortável, mas o passeio compensou!",
+      "nota": 4,
+      "data": "2024-02-25"
+    }
+  ]
+}

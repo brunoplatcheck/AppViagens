@@ -1,0 +1,47 @@
+[
+  {
+    "nome": "Airbnb",
+    "imagem": "images/airbnb.png",
+    "descricao": "Encontre acomodações únicas e locais para se hospedar em qualquer lugar do mundo com o Airbnb."
+  },
+  {
+    "nome": "Azul Linhas Aéreas",
+    "imagem": "images/azul.png",
+    "descricao": "A Azul Linhas Aéreas oferece voos para diversos destinos no Brasil e no exterior com conforto e pontualidade."
+  },
+  {
+    "nome": "GetYourGuide",
+    "imagem": "images/GetYourGuide.png",
+    "descricao": "Descubra as melhores atrações turísticas e atividades em sua próxima viagem com a GetYourGuide."
+  },
+  {
+    "nome": "Disney",
+    "imagem": "images/disney.png",
+    "descricao": "Mergulhe na magia dos parques temáticos e crie memórias inesquecíveis com a Disney."
+  },
+  {
+    "nome": "Hilton Hotels",
+    "imagem": "images/hilton.png",
+    "descricao": "Hospede-se nos hotéis Hilton, que oferecem acomodações de luxo e serviço impecável ao redor do mundo."
+  },
+  {
+    "nome": "LATAM Airlines",
+    "imagem": "images/latam.png",
+    "descricao": "A LATAM Airlines conecta você aos mais variados destinos internacionais com conforto e segurança."
+  },
+  {
+    "nome": "The North Face",
+    "imagem": "images/TheNorthFace.png",
+    "descricao": "Equipamentos e roupas para aventuras ao ar livre, criados pela The North Face, uma marca líder em qualidade."
+  },
+  {
+    "nome": "Travel Ace",
+    "imagem": "images/TravelAce.jpg",
+    "descricao": "Proteja sua viagem com os seguros da Travel Ace, que oferecem cobertura internacional e para imprevistos."
+  },
+  {
+    "nome": "Tripadvisor",
+    "imagem": "images/Tripadvisor.png",
+    "descricao": "Encontre recomendações de viagens e avaliações de outros turistas para tornar sua experiência ainda melhor."
+  }
+]
